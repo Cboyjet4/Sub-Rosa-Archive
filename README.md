@@ -2,7 +2,8 @@ Archived Sub Rosa plugins, .blends, and more.
 
 
 
-
+-Plugins
+Some are not mine, dont be suprised if some dont work, I dont own Sub Rosa anymore so I cant test it
 
 
 
