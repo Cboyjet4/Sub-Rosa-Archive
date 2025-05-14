@@ -1,6 +1,1 @@
----@type Plugin
-local plugin = ...
-
-plugin:addHook("PostHumanCreate", function(man)
-    man.player:sendMessage("Welcome to nostalgia shit")
-end)
+Plugins by Fieri, Jpsh, Sammy, and me or whatever
