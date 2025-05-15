@@ -3,7 +3,7 @@ Archived Sub Rosa plugins, .blends, and more.
 
 
 Plugins
-Some are not mine, dont be suprised if some dont work, I dont own Sub Rosa anymore so I cant test it
+Some are not mine, dont be suprised if some dont work, I dont own Sub Rosa anymore so I cant test it, 99% of the plugins are worthless terribly coded garbage
 
 
 
