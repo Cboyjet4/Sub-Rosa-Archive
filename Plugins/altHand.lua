@@ -1,5 +1,6 @@
 local plugin = ...
 
+--lets you use stuff in your left hand again
 
 plugin:addHook("Physics", function()
     
