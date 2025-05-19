@@ -1,5 +1,7 @@
 local plugin = ...
 
+--fixes leg damage that has been broken since 36
+
 local function Linear(input, maxInput, maxOutput, minOutput)
     local minInput = 0
 
