@@ -1,3 +1,2 @@
-Everything I made for Sub Rosa from 2023 to 2024
+Everything I made for Sub Rosa from 2023 to 2024 + archived plugins
 
-Some plugins are not by me
